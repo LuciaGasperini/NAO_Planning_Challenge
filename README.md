@@ -1,16 +1,16 @@
 # NAO_Planning_Challenge
 Project carried out for the NAO planning challenge of the Fundamentals of Artificial Intelligence and Knowledge Representation course - Module 1 in the year 2022-2023.
 
-# Authors:
+### Authors:
 - Giacomo Caroli: giacomo.caroli4@studio.unibo.it 0001076408
 - Lucia Gasperini: lucia.gasperini@studio.unibo.it 0001092234
 
-#Requirements:
+### Requirements:
 - Numpy -- install with: sudo apt install python3-pip °-->° pip3 install numpy
 - mpg123 -- install with: sudo apt-get install mpg123
 
 
-#Files and folders:
+### Files and folders:
 - main.py
 - [_FOLDER_] MOSSE_ROBOT_NAO (it contains all the moves files)
 - move.py
