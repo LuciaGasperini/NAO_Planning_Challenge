@@ -1,2 +1,2 @@
 # NAO_Planning_Challenge
-Planning a choreography (sequence of positions) for the NAO robot using the Choreographe simulator
+Project carried out for the NAO planning challenge of the Fundamentals of Artificial Intelligence course - Module 1 in the year 2022-2023.
