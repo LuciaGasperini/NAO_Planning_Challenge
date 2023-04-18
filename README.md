@@ -5,7 +5,8 @@ Project carried out for the NAO planning challenge of the Fundamentals of Artifi
 - Giacomo Caroli: giacomo.caroli4@studio.unibo.it 0001076408
 - Lucia Gasperini: lucia.gasperini@studio.unibo.it 0001092234
 
-### Team name: TheDebuggers
+### Team name:
+TheDebuggers
 
 ### Requirements:
 - Numpy -- install with: sudo apt install python3-pip °-->° pip3 install numpy
